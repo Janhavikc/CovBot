@@ -1,0 +1,198 @@
+﻿What is a coronavirus?
+Coronaviruses are a large family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).
+What is a novel coronavirus?
+A novel coronavirus (CoV) is a new strain of coronavirus that has not been previously identified in humans.
+Can humans become infected with a novel coronavirus of animal source?
+Detailed investigations found that SARS-CoV was transmitted from civet cats to humans in China in 2002 and MERS-CoV from dromedary camels to humans in Saudi Arabia in 2012. Several known coronaviruses are circulating in animals that have not yet infected humans. As surveillance improves around the world, more coronaviruses are likely to be identified.
+What are the symptoms of someone infected with a coronavirus?
+It depends on the virus, but common signs include respiratory symptoms, fever, cough, shortness of breath, and breathing difficulties. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death.
+Can coronaviruses be transmitted from person to person?
+Yes, some coronaviruses can be transmitted from person to person, usually after close contact with an infected patient, for example, in a household workplace, or health care centre.
+Is there a vaccine for a novel coronavirus?
+When a disease is new, there is no vaccine until one is developed. It can take a number of years for a new vaccine to be developed.
+Is there a treatment for a novel coronavirus?
+There is no specific treatment for disease caused by a novel coronavirus. However, many of the symptoms can be treated and therefore treatment based on the patient's clinical condition. Moreover, supportive care for infected persons can be highly effective.
+Does the vaccine prevent Covid?
+The current vaccines are highly effective at preventing people from getting seriously sick with COVID-19
+What are the precautions to be take for COVID-19?
+Standard recommendations to reduce exposure to and transmission of a range of illnesses include maintaining basic hand and respiratory hygiene, and safe food practices  and avoiding close contact, when possible, with anyone showing symptoms of respiratory illness such as coughing and sneezing. To protect yourself you can take steam, kadha and hot water. Regular physical activity should be done.
+Are health workers at risk from a novel coronavirus?
+Yes, they can be, as health care workers come into contact with patients more often than the general public WHO recommends that health care workers consistently apply appropriate
+What WHO recommendations for countries?
+WHO encourages all countries to enhance their surveillance for severe acute respiratory infections (SARI), to carefully review any unusual patterns of SARI or pneumonia cases and to notify WHO of any suspected or confirmed case of infection with novel coronavirus.
+Countries are encouraged to continue strengthening their preparedness for health emergencies in line with the International Health Regulations (2005).
+What if you get Covid in between vaccine doses?
+If you get COVID between your first and second vaccine dose, you need to isolate just like you would if you got COVID not related to your vaccine does.
+Who is at risk for coronavirus?
+The virus that causes COVID-19 infects people of all ages. However, evidence to date suggests that two groups of people are at a higher risk of getting severe COVID-19 disease. These are older people (that is people over 60 years old); and those with underlying medical conditions (such as cardiovascular disease, diabetes, chronic respiratory disease, and cancer). The risk of severe disease gradually increases with age starting from around 40 years. It's important that adults in this age range protect themselves and in turn protect others that may be more vulnerable.
+Is coronavirus a disease?
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+Which Covid vaccine is used in India?
+India already has two approved COVID-19 vaccines - Covishield and Covaxin- that are currently being administered to eligible Indians. So far, frontline and healthcare workers, as well as people above 60 years of age and people over 45 years of age with co-morbidities, were being administered the vaccines.
+What are the different types of covid-19 test available?
+There are two types of covid-19 tests available, Molecular (RT-PCR) tests and COVID-19 Antigen Tests.
+Can COVID-19 enter into the body by the hands?
+Hands touch too many surfaces and can quickly pick up viruses. Once contaminated, hands can transfer the virus to your face, from where the virus can move inside your body, making you feel unwell.
+Are older people at higher risk of developing severe COVID-19 disease?
+Supporting and protecting older people is everyone’s business: although all age groups are at risk of contracting COVID-19, older people face significant risk of developing severe illness.
+How long does the virus that causes COVID-19 last on surfaces?
+Recent research evaluated the survival of the COVID-19 virus on different surfaces and reported that the virus can remain viable for up to 72 hours on plastic and stainless steel, up to four hours on copper, and up to 24 hours on cardboard
+What are the types of coronavirus?
+Coronaviruses are a large family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).
+What are the guidelines for hand washing during the COVID-19 pandemic?
+Practice frequent hand washing with soap (for at least 40-60 seconds) even when hands are not visibly dirty. Use of alcohol-based hand sanitizers (for at least 20 seconds) can be made wherever feasible.
+What can i do to protect myself from COVID-19?
+Wear mask, use face shield, gloves, Pip kit, social distancing, wash your hands often with soap and water, get COVID-19 vaccine. Use hand sanitizer if soap and water aren’t available.
+How many active cases are present of COVID-19 in INDIA?
+979608 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+Number of discharged patients of COVID-19 in INDIA?
+11913292 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+Number of deaths due to COVID-19 in INDIA?
+167642 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+Total number of tests done during the day?
+13,64,205 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+How many active cases are present of COVID-19 in Kalyan Dombivali?
+13503 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+Number of discharged patients of COVID-19 in Kalyan Dombivali?
+76988 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+Number of deaths due to COVID-19 in Kalyan Dombivali?
+04 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+Total number of tests done during the day in Kalyan Dombivali?
+2019 - dated 09/04/2021 For more information  <a href="https://www.mohfw.gov.in/">here</a>
+Most common symptoms of COVID-19?
+Dry cough, fever, tiredness
+Less common symptoms of COVID-19?
+Aches and pains, sore throat, diarrhoea, conjunctivitis, headache, loss of taste or smell and a rash of spin or discolouration of fingures and toes, difficulty breathing or shortness of breath chest pain or pressure loss of speech or movement.
+Serious symptoms of COVID-19?
+difficulty breathing or shortness of breath chest pain or pressure loss of speech or movement
+Can the virus that causes COVID-19 be transmitted through the air?
+Studies to date suggest that the virus that causes COVID-19 is mainly transmitted through contact with respiratory droplets rather than through the air.
+Can CoVID-19 be caught from a person who has no symptoms?
+The main way the disease spreads is through respiratory droplets expelled by someone who is coughing. The risk of catching COVID-19 from someone with no symptoms at all is very low. However, many people with COVID-19 experience only mild symptoms. This is particularly true at the early stages of the disease. It is therefore possible to catch COVID-19 from someone who has, for example, just a mild cough and does not feel ill.
+Can I catch COVID-19 from the feces of someone with the disease?
+The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not a main feature of the outbreak. The ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating. 
+Who is at risk of developing severe illness ?
+While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others. 
+Are antibiotics effective in preventing or treating the COVID-19?
+No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection. 
+Are there any medicines or therapies that can prevent or cure COVID-19 ?
+While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. We does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines.
+Can humans become infected with the COVID-19 from an animal source?
+Coronaviruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which  may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed. 
+Can I catch COVID-19 from my pet?
+While there has been one instance of a dog being infected in Hong Kong, to date, there is no evidence that a dog, cat or any pet can transmit COVID-19. COVID-19 is mainly spread through droplets produced when an infected person coughs, sneezes, or speaks. To protect yourself, clean your hands frequently and thoroughly. 
+Is it safe to receive a package from any area where COVID-19 has been reported?
+Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low. 
+Is there anything I should not do?
+The following measures ARE NOT effective against COVID-2019 and can be harmful:
+• Smoking
+• Wearing multiple masks
+• Taking antibiotics
+Where Can I Get the COVID-19 Vaccine in Kalyan Dombivali?
+Noble Hospital, Shivam Hospital, Optilife Multispeciality Hospital, BAJ RR Hospital, AIMS Hospital, Star city Multispeciality Hospital, Sai Superspeciality Hospital, Shreedevi Hospital, Ved Hospital, Pranayu Multispeciality Hospital, Siddhivinayak multispeciality hospital
+List of quantine centres in Kalyan Dombivali.
+ <a href=" https://www.kdmc.gov.in/RtsPortal/SectionInformation.html?Download">here</a>
+List of active containment zone.
+<a href=" https://www.kdmc.gov.in/RtsPortal/SectionInformation.html?Download">here</a>
+I'm having fever, then what should  i do ?
+Consult your doctor.
+I'm having fever, weakness and cough then what should  i do ?
+Consult your doctor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
